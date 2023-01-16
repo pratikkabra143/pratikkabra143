@@ -1,15 +1,15 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)It's Nirakar Jena
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)It's Pratik Kabra
 ====================================================================================================================================
 
-An Artificial Intelligence and Data Science Engineering student
+An Artificial Intelligence and Data Science Engineering Student
 ---------------------------------------------------------------
 
-I'm still a newbie in Programming, With some knowledge in python & Java I have worked with python libraries like OpenCV, Pygame, Numpy, Tkinter and Matplotlib
+I'm still a newbie in Programming, with some knowledge in Python & C++. I have worked with python libraries like OpenCV, Pygame, Numpy, Tkinter and Matplotlib...
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Python desktop based applications
-* ✉️  You can contact me [here](mailto:jenashubham60@gmail.com)
+* ✉️  You can contact me [here](mailto:pratikkabra2000@gmail.com)
 
 <a href="https://github.com/nirakar24?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
