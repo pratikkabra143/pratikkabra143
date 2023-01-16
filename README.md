@@ -11,7 +11,7 @@ I'm still a newbie in Programming, with some knowledge in Python & C++. I have w
 * 🤝  I'm open to collaborating on Python desktop based applications
 * ✉️  You can contact me [here](mailto:pratikkabra2000@gmail.com)
 
-<a href="https://github.com/nirakar24?tab=followers" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/pratikkabra143?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nirakar24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <img
@@ -37,14 +37,14 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/nirakar_24_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/pratikkabra143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/nirakar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/pratikkabra143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<div width="50%" align="left"><a href="http://www.github.com/nirakar24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=nirakar24&theme=gotham&show_icons=true" alt="nirakar24's GitHub stats" /></a><a href="http://www.github.com/nirakar24" align="left"><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirakar24&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br/><br/><br/><br/><br/><br/>
-<a href="http://www.github.com/nirakar24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nirakar24&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div width="50%" align="left"><a href="http://www.github.com/pratikkabra143" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pratikkabra143&theme=gotham&show_icons=true" alt="pratikkabra143's GitHub stats" /></a><a href="http://www.github.com/pratikkabra143" align="left"><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkabra143&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br/><br/><br/><br/><br/><br/>
+<a href="http://www.github.com/pratikkabra143"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pratikkabra143&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br /><br /><br /><br />
 
-![](https://komarev.com/ghpvc/?username=nirakar24&label=Visitor+Counter&style=for-the-badge&color=0c94b4)
+![](https://komarev.com/ghpvc/?username=pratikkabra1434&label=Visitor+Counter&style=for-the-badge&color=0c94b4)
