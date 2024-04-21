@@ -4,10 +4,10 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 An Artificial Intelligence and Data Science Engineering Student
 ---------------------------------------------------------------
 
-I'm still a newbie in Programming, with some knowledge in Python & C++. I have worked with python libraries like OpenCV, Pygame, Numpy, Tkinter and Matplotlib...
+I'm still a newbie in Programming, with some knowledge in Python & C++. I have worked with python libraries and frameworks like Django, Flask, Pandas, OpenCV, Pygame, Numpy, Tkinter and Matplotlib...
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Web Development
+* 🧠  I'm learning Python Development
 * 🤝  I'm open to collaborating on Python desktop based applications
 * ✉️  You can contact me [here](mailto:pratikkabra2000@gmail.com)
 
